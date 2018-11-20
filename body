@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 <body>
 <nav id="navbar">
 
@@ -13,15 +16,18 @@
   
  <section id="Values">
  
- <h1 class="Values_header">
+ <h1 class="Values_header" id="Theories_header">
  Theory
+    <p>Info about theory</p>
  </h1>
-  <h2 class="Values_header">
+  <h1 class="Values_header" id="Uniqueness_header">
  Uniqueness
- </h2>
-  <h3 class="Values_header">
+    <p>Info about uniqueness</p>
+ </h1>
+  <h1 class="Values_header" id="Aesthetic_header">
  Aesthetic
- </h3>
+    <p>Info about aesthetic</p>
+ </h1>
  
  </section>
   
@@ -29,13 +35,13 @@
   
  <section id="Projects">
  
-  <h1 class="Projects_header">
+  <h3 class="Projects_header" id="Project1_header">
 Project 1
- </h1>
-  <h2 class="Projects_header">
+ </h3>
+  <h3 class="Projects_header" id="Project2_header">
  Project 2
- </h2>
-  <h3 class="Projects_header">
+ </h3>
+  <h3 class="Projects_header" id="Project1_header">
  Project 3
  </h3>
  
@@ -80,3 +86,4 @@ Project 1
  </section>
  
  </body>
+</html>
