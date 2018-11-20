@@ -5,13 +5,21 @@
 
 <nav id="navbar">
 
+    <a class=nav-link href="#About_me">About Me</a>
     <a class=nav-link href="#Values">Values</a>
     <a class=nav-link href="#Projects">Projects</a>
-    <a class=nav-link href="#Strengths">Strengths</a>
     <a class=nav-link href="#Resume">Resume</a>
-    <a class=nav-link href="#Github">GitHub</a>
+    <a class=nav-link href="#Profile">Profile</a>
     <a class=nav-link href="#Contact">Contact</a>
 </nav>
+
+<section id="About_me">
+
+    <p id="About_me_p">
+    I love a challenge.
+    </p>
+    
+</section>
   
   
   
@@ -55,12 +63,6 @@ Project 1
  </h3>
  
  </section>
- 
- 
- 
-  <section id="Strengths">
-  
-  </section>
   
   
   
@@ -74,7 +76,7 @@ Project 1
  
  
  
-  <section id="Github">
+  <section id="Profile">
  
     <a href="https://github.com/maddiegascar" id="GitHub-link" target="_blank">
     GitHub Profile
