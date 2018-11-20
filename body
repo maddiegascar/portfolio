@@ -8,7 +8,7 @@
     <a class=nav-link href="#Projects">Projects</a>
     <a class=nav-link href="#Strengths">Strengths</a>
     <a class=nav-link href="#Resume">Resume</a>
-    <a class=nav-link href="#Githun">GitHub</a>
+    <a class=nav-link href="#Github">GitHub</a>
     <a class=nav-link href="#Contact">Contact</a>
 </nav>
   
@@ -27,14 +27,14 @@
  Uniqueness
  </h1>
     <p id="Uniqueness_p">
-    Demonstrate high independence.
+    Demonstrating high independence.
     </p>
  
   <h1 class="Values_header" id="Aesthetic_header">
  Aesthetic
  </h1>
     <p id="Aesthetic_p">
-    Value form, balance, and beauty.
+    Valuing form, balance, and beauty.
     </p>
  
  </section>
