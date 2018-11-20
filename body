@@ -1,0 +1,46 @@
+<body>
+<nav id="navbar">
+
+    <a class=nav-link href="#about_me">Values</a>
+    <a class=nav-link href="#about_me">Projects</a>
+    <a class=nav-link href="#about_me">Strengths</a>
+    <a class=nav-link href="#about_me">Resume</a>
+    <a class=nav-link href="#profile-link">GitHub</a>
+    
+</nav>
+  
+  
+  
+ <section id="Values">
+ 
+ </section>
+  
+  
+  
+ <section id="Projects">
+ 
+ </section>
+ 
+ 
+ 
+  <section id="Strengths">
+  
+  </section>
+  
+  
+  
+  <section id="Resume">
+  
+  </section>
+ 
+ 
+ 
+  <section id="Github">
+ 
+    <a href="GITHUB OR FCC PROFILE LINK" id="GitHub-link" target="_blank">
+    GitHub Profile
+    </a>
+    
+  </section>
+ 
+ </body>
