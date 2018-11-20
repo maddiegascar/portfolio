@@ -1,8 +1,21 @@
 <main>
 
+<h4 id="Main_hello">
+Hello, my name is
+</h4>
 
-<img src="" alt="madison henderson">
+<h1 id="Main_name">
+Madison Henderson
+</h1>
+
+
+<img id="Web_image" src="" alt="web">
 </img>
+
+
+<img id="Developer_image" src="" alt="developer">
+</img>
+
 
 <!-- Unsure if this is the correct link--!>
  <a id="Nav_link" href="https://github.com/maddiegascar/portfolio/blob/master/body">
