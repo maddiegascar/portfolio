@@ -16,25 +16,25 @@
   
  <section id="Values">
  
- <h1 class="Values_header" id="Theories_header">
+ <h1 class="Values_header" id="Theory_header">
  Theory
  </h1>
-    <p id="Theories_p">
-    Info about theory
+    <p id="Theory_p">
+    Passionate about learning for it's own sake.
     </p>
  
   <h1 class="Values_header" id="Uniqueness_header">
  Uniqueness
  </h1>
     <p id="Uniqueness_p">
-    Info about uniqueness
+    Demonstrate high independence.
     </p>
  
   <h1 class="Values_header" id="Aesthetic_header">
  Aesthetic
  </h1>
     <p id="Aesthetic_p">
-    Info about aesthetic
+    Value form, balance, and beauty.
     </p>
  
  </section>
@@ -46,9 +46,6 @@
   <h3 class="Projects_header" id="Project1_header">
 Project 1
  </h3>
-   <p id="Aesthetic_p">
-    Info about aesthetic
-    </p>
   <h3 class="Projects_header" id="Project2_header">
  Project 2
  </h3>
