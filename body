@@ -18,16 +18,24 @@
  
  <h1 class="Values_header" id="Theories_header">
  Theory
-    <p>Info about theory</p>
  </h1>
+    <p id="Theories_p">
+    Info about theory
+    </p>
+ 
   <h1 class="Values_header" id="Uniqueness_header">
  Uniqueness
-    <p>Info about uniqueness</p>
  </h1>
+    <p id="Uniqueness_p">
+    Info about uniqueness
+    </p>
+ 
   <h1 class="Values_header" id="Aesthetic_header">
  Aesthetic
-    <p>Info about aesthetic</p>
  </h1>
+    <p id="Aesthetic_p">
+    Info about aesthetic
+    </p>
  
  </section>
   
