@@ -46,6 +46,9 @@
   <h3 class="Projects_header" id="Project1_header">
 Project 1
  </h3>
+   <p id="Aesthetic_p">
+    Info about aesthetic
+    </p>
   <h3 class="Projects_header" id="Project2_header">
  Project 2
  </h3>
