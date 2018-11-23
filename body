@@ -6,9 +6,7 @@
 <nav id="navbar">
 
     <a class=nav-link href="#About_me">About Me</a>
-    <a class=nav-link href="#Values">Values</a>
     <a class=nav-link href="#Projects">Projects</a>
-    <a class=nav-link href="#Resume">Resume</a>
     <a class=nav-link href="#Profile">Profile</a>
     <a class=nav-link href="#Contact">Contact</a>
 </nav>
@@ -47,6 +45,15 @@
     </p>
  
  </section>
+ 
+ 
+ <section id="Resume">
+  
+   <a href="https://github.com/maddiegascar/portfolio/blob/master/HendersonResume.pdf" id="Resume_link" target="_blank">
+    Resume
+    </a>
+  
+ </section>
   
   
   
@@ -63,35 +70,26 @@ Project 1
  </h3>
  
  </section>
-  
-  
-  
-  <section id="Resume">
-  
-  <a href="https://github.com/maddiegascar/portfolio/blob/master/HendersonResume.pdf" id="Resume_link" target="_blank">
-    Resume
-    </a>
-  
-  </section>
  
  
  
   <section id="Profile">
  
-    <a href="https://github.com/maddiegascar" id="GitHub-link" target="_blank">
+    <a href="https://www.linkedin.com/in/madison-henderson-89743165/" id="LinkedIn_link" target="_blank">
+    LinkedIn Profile
+    </a>
+    
+    <a href="https://github.com/maddiegascar" id="GitHub_link" target="_blank">
     GitHub Profile
     </a>
     
   </section>
   
-   <section id="Contact">
+  <section id="Contact">
    
    <p>Email: madisonmariehenderson@gmail.com
    <br>Phone: 574.322.1354
-   <br>LinkedIn:<a href="https://www.linkedin.com/in/madison-henderson-89743165/" id="LinkedIn_link" target="_blank">
-    LinkedIn Profile
-    </a>
-    
+   
    </p>
  
  </section>
