@@ -1,4 +1,10 @@
 <main>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Encode+Sans+Condensed|Julius+Sans+One|Kristi|News+Cycle|Orbitron|Rock+Salt|Sacramento" rel="stylesheet"> 
+<style>
+h1 {font-family: Julius Sans One;}
+</style>
+</head>
 
 <h4 id="Main_hello">
 Hello, my name is
