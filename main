@@ -9,7 +9,7 @@
 
 h1 {
  font-family: Kristi;
- font-size: 50px;
+ font-size: 62px;
  text-align: center;
  margin: auto;
  width: 75%;
@@ -23,7 +23,7 @@ h4 {
  }
  
 #Nav_link {
-font-family: Julius Sans One; 
+font-family: Kristi; 
 font-size: 12px;
 }
 
