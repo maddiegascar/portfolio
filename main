@@ -10,8 +10,14 @@
 h1 {
  font-family: Julius Sans One;
  font-size: 72px;
- position: center;
+ text-align: center;
  }
+ 
+h1.blocktext {
+margin-left: auto;
+margin-right: auto;
+width: 8em;
+}
  
 h4 {
  font-family: Julius Sans One; 
