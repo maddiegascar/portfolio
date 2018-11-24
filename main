@@ -3,6 +3,7 @@
 <link href="https://fonts.googleapis.com/css?family=Encode+Sans+Condensed|Julius+Sans+One|Kristi|News+Cycle|Orbitron|Rock+Salt|Sacramento" rel="stylesheet"> 
 <style>
 h1 {font-family: Julius Sans One;}
+h4 {font-family: Julius Sans One; font-size: 12px;}
 </style>
 </head>
 
