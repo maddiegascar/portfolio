@@ -8,7 +8,8 @@
 <style>
 
 h1 {
- font-family: Julius Sans One; 
+ font-family: Julius Sans One;
+ font-size: 72px;
  position: center;
  }
  
@@ -30,7 +31,7 @@ font-size: 12px;
 
 
 <h4 id="Main_hello">
-Hello, my name is
+Hey. My name is
 </h4>
 
 <h1 id="Main_name">
