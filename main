@@ -9,9 +9,10 @@
 
 h1 {
  font-family: Julius Sans One;
- font-size: 62px;
+ font-size: 50px;
  text-align: center;
  margin: auto;
+ width: 75%;
  }
  
 
