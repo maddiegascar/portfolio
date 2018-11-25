@@ -20,7 +20,7 @@ h1 {
  width: 100%;
  }
  
-h3 #web {
+h3 {
 font-family: Julius Sans One;
 font-size: 40px;
 text-align: center;
