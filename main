@@ -20,14 +20,20 @@ h1 {
  width: 75%;
  }
  
-
+h3 {
+font-family: Julius Sans One;
+font-size: 40px;
+text-align: center;
+margin: auto;
+width: 75%
+}
  
 h4 {
  font-family: Kristi; 
  font-size: 12px;
  text-align: center;
  margin: auto;
- width: 25;
+ width: 50%;
  }
  
 #Nav_link {
@@ -52,12 +58,13 @@ Madison Henderson
 </h1>
 
 
-<img id="Web_image" src="" alt="web">
-</img>
+<h3 id=web>
+web
+</h3>
 
-
-<img id="Developer_image" src="" alt="developer">
-</img>
+<h3 id="developer>
+developer
+</h3>
 
 
 <!-- Unsure if this is the correct link--!>
