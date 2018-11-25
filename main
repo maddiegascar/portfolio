@@ -17,7 +17,7 @@ h1 {
  font-size: 62px;
  text-align: center;
  margin: auto;
- width: 75%;
+ width: 100%;
  }
  
 h3 {
