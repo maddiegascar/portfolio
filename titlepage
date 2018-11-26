@@ -27,7 +27,7 @@ width: 100%
 }
  
 h4 {
- font-family: Kristi; 
+ font-family: Julius Sans One; 
  font-size: 12px;
  text-align: center;
  margin: auto;
