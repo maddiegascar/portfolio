@@ -9,6 +9,11 @@ div#nav {
 div#nav ul{
   display: inline-block;
 }
+div#Sections {
+  background-image: url("IMAGEURL");
+  background-position: 50% 50%;
+  background-repeat: repeat;
+}
 
 </style>
 
@@ -34,6 +39,8 @@ div#nav ul{
 
 </div>
 
+<div id="Sections">
+
 <section id="About_me">
 
     <p id="About_me_p">
@@ -42,7 +49,7 @@ div#nav ul{
     
 </section>
   
-  
+ 
   
  <section id="Values">
  
@@ -68,6 +75,7 @@ div#nav ul{
     </p>
  
  </section>
+ 
  
  
  <section id="Resume">
@@ -117,6 +125,8 @@ Project 1
    </p>
  
  </section>
+ 
+ </div>
  
  </body>
  
