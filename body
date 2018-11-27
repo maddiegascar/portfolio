@@ -9,7 +9,7 @@ div#nav {
 div#nav ul{
   display: inline-block;
 }
-div.Sections {
+div#Sections {
   background-image: url("https://github.com/maddiegascar/portfolio/blob/master/IMG_60441.jpg");
 
 }
@@ -38,7 +38,7 @@ div.Sections {
 
 </div>
 
-<div class="Sections">
+<div id="Sections">
 
 <section id="About_me">
 
