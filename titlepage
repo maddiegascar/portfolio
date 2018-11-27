@@ -47,11 +47,20 @@ h4 {
  }
  
 a #Nav_link {
+color: #0060B6;
+text-decoration: none;
 font-family: Julius Sans One; 
 font-size: 18px;
 text-align: center;
 margin: auto;
 width: 100%;
+}
+
+a:hover 
+{
+     color:#00A0C6; 
+     text-decoration:none; 
+     cursor:pointer;  
 }
 
 </style>
