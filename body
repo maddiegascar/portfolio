@@ -2,24 +2,34 @@
 <html>
 
 <style>
-nav {
-text-align: center;
-margin: auto;
-width: 100%;
+
+div#nav ul{
+  display: inline-block;
 }
+
 </style>
 
 
 <body>
 
+<div id="nav">
+
 <nav id="navbar">
 
-    <a class=nav-link href="#About_me">About Me</a>
-    <a class=nav-link href="#Resume">Resume</a>
-    <a class=nav-link href="#Projects">Projects</a>
-    <a class=nav-link href="#Profile">Profile</a>
-    <a class=nav-link href="#Contact">Contact</a>
+ <ul>  
+ <a class=nav-link href="#About_me">About Me</a></ul>
+ <ul>   
+ <a class=nav-link href="#Resume">Resume</a></ul>
+ <ul>
+ <a class=nav-link href="#Projects">Projects</a></ul>
+ <ul>
+ <a class=nav-link href="#Profile">Profile</a></ul>
+ <ul>
+ <a class=nav-link href="#Contact">Contact</a></ul>
+ 
 </nav>
+
+</div>
 
 <section id="About_me">
 
