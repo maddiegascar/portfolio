@@ -11,8 +11,7 @@
 }
 .Sections {
   background-image: url("https://github.com/maddiegascar/portfolio/blob/master/IMG_60441.jpg");
-  background-position: 50% 50%;
-  background-repeat: repeat;
+
 }
 
 </style>
