@@ -6,13 +6,13 @@
 <style>
 div#nav {
   text-align: center;
-  font-color: black;
-  font-family: Julius Sans One;
-  font-size: 12px;
 }
 
 div#nav ul{
   display: inline-block;
+  font-color: black;
+  font-family: Julius Sans One;
+  font-size: 12px;
 }
 
 body {
