@@ -18,7 +18,7 @@ div#nav ul{
 
 div#main {
     position: relative;
-    left: 150px;
+    left: 50px;
     top: 150px;
 }
 
