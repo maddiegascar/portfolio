@@ -6,6 +6,7 @@
 <nav id="navbar">
 
     <a class=nav-link href="#About_me">About Me</a>
+    <a class=nav-link href="#Resume">Resume</a>
     <a class=nav-link href="#Projects">Projects</a>
     <a class=nav-link href="#Profile">Profile</a>
     <a class=nav-link href="#Contact">Contact</a>
