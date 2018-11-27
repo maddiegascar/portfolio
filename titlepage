@@ -18,8 +18,8 @@ div#nav ul{
 
 div#main {
     position: relative;
-    bottom: 400px;
     left: 150px;
+    top: 150px;
 }
 
 body {
