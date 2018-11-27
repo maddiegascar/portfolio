@@ -6,7 +6,9 @@
 <style>
 div#nav {
   text-align: center;
-  color: inherit;
+  font-color: black;
+  font-family: Julius Sans One;
+  font-size: 12px;
 }
 
 div#nav ul{
