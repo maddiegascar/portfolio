@@ -2,14 +2,14 @@
 <html>
 
 <style>
-.div#nav {
+div#nav {
   text-align: center;
   color: inherit;
 }
-.div#nav ul{
+div#nav ul{
   display: inline-block;
 }
-.Sections {
+div.Sections {
   background-image: url("https://github.com/maddiegascar/portfolio/blob/master/IMG_60441.jpg");
 
 }
