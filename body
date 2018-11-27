@@ -2,14 +2,14 @@
 <html>
 
 <style>
-div#nav {
+.div#nav {
   text-align: center;
   color: inherit;
 }
-div#nav ul{
+.div#nav ul{
   display: inline-block;
 }
-div#Sections {
+.Sections {
   background-image: url("https://github.com/maddiegascar/portfolio/blob/master/IMG_60441.jpg");
   background-position: 50% 50%;
   background-repeat: repeat;
@@ -39,7 +39,7 @@ div#Sections {
 
 </div>
 
-<div id="Sections">
+<div class="Sections">
 
 <section id="About_me">
 
