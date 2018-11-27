@@ -16,11 +16,6 @@ div#nav ul{
   font-size: 12px;
 }
 
-div#main {
-    position: relative;
-    left: 50px;
-}
-
 body {
   background-image: url("IMAGEURL");
   background-position: 50% 50%;
