@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
 
+<style>
+nav {
+text-align: center;
+margin: auto;
+width: 100%;
+}
+</style>
+
+
 <body>
 
 <nav id="navbar">
