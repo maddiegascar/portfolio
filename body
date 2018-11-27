@@ -10,7 +10,11 @@ div#nav ul{
   display: inline-block;
 }
 div#Sections {
+  position: absolute;
   background-image: url("https://github.com/maddiegascar/portfolio/blob/master/IMG_60441.jpg");
+  background: repeat;
+  width; 500px;
+  height; 500px;
 
 }
 
