@@ -4,6 +4,15 @@
 </link>
 
 <style>
+div#nav {
+  text-align: center;
+  color: inherit;
+}
+
+div#nav ul{
+  display: inline-block;
+}
+
 body {
   background-image: url("IMAGEURL");
   background-position: 50% 50%;
@@ -47,9 +56,33 @@ width: 100%;
 </head>
 
 
+
+
 <body>
 
+<div id="nav">
 
+
+<nav id="navbar">
+
+ <ul>  
+ <a class=nav-link href="#About_me">About Me</a></ul>
+ <ul>   
+ <a class=nav-link href="#Resume">Resume</a></ul>
+ <ul>
+ <a class=nav-link href="#Projects">Projects</a></ul>
+ <ul>
+ <a class=nav-link href="#Profile">Profile</a></ul>
+ <ul>
+ <a class=nav-link href="#Contact">Contact</a></ul>
+ 
+</nav>
+
+
+</div>
+
+
+<div id="main">
 <h4 id="Main_hello">
 Hey. My name is
 </h4>
@@ -68,5 +101,11 @@ web developer
  <a id="Nav_link" href="https://github.com/maddiegascar/portfolio/blob/master/body">
  About me
  </a> 
+ 
+ 
+ </div>
+ 
+ <div id="body">
+ </div>
  
 </body>
