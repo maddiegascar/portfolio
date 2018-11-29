@@ -16,8 +16,8 @@ div#nav ul{
   font-size: 12px;
 }
 
-body {
-  background-image: url("IMAGEURL");
+div#body {
+  background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&h=350");
   background-position: 50% 50%;
   background-repeat: repeat;
 }
