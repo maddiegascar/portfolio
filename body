@@ -2,16 +2,18 @@
 <html>
 
 <style>
+
 div#nav {
   text-align: center;
   color: inherit;
-  
+ } 
+ 
 div#nav ul{
   display: inline-block;
   }
 
-div#Sections {
-  background-image: url("https://github.com/maddiegascar/portfolio/blob/master/IMG_60441.jpg")
+div.Sections {
+  background-image: url("https://github.com/maddiegascar/portfolio/blob/master/IMG_60441.jpg");
   background-width: 500px;
   background-height: 500px;
 }
@@ -40,7 +42,7 @@ div#Sections {
 
 </div>
 
-<div id="Sections">
+<div class="Sections">
 
 <section id="About_me">
 
