@@ -68,6 +68,10 @@ img.Center {
   margin-right: auto;
 }
 
+img#Arrow {
+width: 50%;
+height: auto;
+}
 </style>
 
 </head>
