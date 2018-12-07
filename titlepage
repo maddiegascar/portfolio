@@ -63,9 +63,9 @@ a:hover {
 }
 
 img#Arrow {
+  display: block;
   height: 150px;
   width: 150px;
-  display: block;
   margin-left: 300px;
   margin-right: 300px;
 }
