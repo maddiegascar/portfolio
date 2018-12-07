@@ -63,12 +63,9 @@ a:hover {
 }
 
 img.Center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-img#Arrow {
+display: block;
+margin-left: auto;
+margin-right: auto;
 width: 50%;
 height: auto;
 }
