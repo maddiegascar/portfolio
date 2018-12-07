@@ -56,11 +56,16 @@ margin: auto;
 width: 100%;
 }
 
-a:hover 
-{
+a:hover {
      color:#00A0C6; 
      text-decoration:none; 
      cursor:pointer;  
+}
+
+img#Arrow {
+  margin: auto;
+  height: 150px;
+  width: 150px;
 }
 
 </style>
@@ -110,7 +115,7 @@ web developer
 
 <br>
 
-<img id="arrow_image" src="https://sunshinecoastvet.com/wp-content/uploads/2017/09/77788-down-arrow-inside-circle-300x300.png" alt="down arrow"></img>
+<img id="Arrow" src="https://sunshinecoastvet.com/wp-content/uploads/2017/09/77788-down-arrow-inside-circle-300x300.png" alt="down arrow"></img>
 
 <!-- Unsure if this is the correct link--!>
  <a id="Nav_link" href="div#body">
