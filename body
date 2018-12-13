@@ -13,7 +13,7 @@ div#nav ul{
   }
 
 div.Sections {
-  background-image: url("https://github.com/maddiegascar/portfolio/blob/master/IMG_60441.jpg");
+  background-color: black;
   background-width: 500px;
   background-height: 500px;
 }
