@@ -14,8 +14,7 @@ div#nav ul{
 
 div.Sections {
   background-color: rgba(255, 0, 0, 0.4);
-  background-width: 500px;
-  background-height: 500px;
+  text-align: center;
 }
 
 </style>
